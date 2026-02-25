@@ -118,7 +118,7 @@ pie title AI/ML Skill Distribution
 
 ## 📢 **Let's Connect!**
 - [💼 LinkedIn](https://www.linkedin.com/in/amalmirza/)
-- [🐙 GitHub](https://github.com/amalmirza)
+- [🐙 GitHub](https://github.com/Amal-hash-tech)
 - [📧 Email](mailto:amalmirza055@gmail.com)
 - [🏢 Location: Islamabad, Pakistan]
 
